@@ -1,1 +1,18 @@
-# Foundation-of-Computer-Science-
+[Task 1 - Encoding Formats & Secure Data Exchange](#task-1---encoding-formats--secure-data-exchange)
+  - [Introduction](#introduction)
+  - [Base64 Encoding](#base64-encoding)
+  - [Hex Encoding](#hex-encoding)
+  - [URL Encoding](#url-encoding)
+  - [TLS Data Flow Diagram](#tls-data-flow-diagram)
+  - [Proposed Enhancements](#proposed-enhancements)
+
+- [Task 2 - P vs NP & Seating Arrangement Problem](#task-2---p-vs-np--seating-arrangement-problem)
+  - [What are P and NP](#what-are-p-and-np)
+  - [Brute Force Approach](#brute-force-approach)
+  - [Heuristic Approach](#heuristic-approach)
+
+- [Task 3 - Database Normalisation & SQL](#task-3---database-normalisation--sql)
+  - [Data Problems in Original Table](#data-problems-in-original-table)
+  - [1NF 2NF 3NF Normalisation](#1nf-2nf-3nf-normalisation)
+  - [ER Diagram](#er-diagram)
+  - [SQL Queries](#sql-queries)
